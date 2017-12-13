@@ -1,12 +1,12 @@
 # Mobile-Network-Traffic-Analysis
 
 
-Our ipython note book is simple,
-downlaod all the files 
-change the datapath in code 
-run the ipython note book 
+Our ipython note book is simple
+1. Downlaod all the files 
+2. Change the datapath in code 
+3. Run the ipython note book 
 
 
-1. Data Exploration contains the code for exploring and cleaning the data.
+Data Exploration contains the code for exploring and cleaning the data.
 
-2. different Regression Algorithm can be applied on that claened data
+Different Regression Algorithm can be applied on that claened data
